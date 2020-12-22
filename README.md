@@ -1,7 +1,7 @@
 Exercise 9:
 
  /* Write your code here: */
- createEmployeeList().forEach(item -> System.out.print(item.getName()+", "));
+ - createEmployeeList().forEach(item -> System.out.print(item.getName()+", "));
 
 
 Exercise 10:
